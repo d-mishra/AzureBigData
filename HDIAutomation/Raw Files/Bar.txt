@@ -1,0 +1,13 @@
+BarID|BarNumber|BarSize|BarFlavor|BarCost|BarSalePrice
+9001|S-MC|Small|Milk Chocolate|.50|1.00
+9002|S-DC|Small|Dark Chocolate|.50|1.00
+9003|S-CA|Small|Caramel|.50|1.00
+9004|S-CR|Small|Crisp|.50|1.00
+9005|L-MC|Large|Milk Chocolate|1.00|2.00
+9006|L-DC|Large|Dark Chocolate|1.00|2.00
+9007|L-CA|Large|Caramel|1.00|2.00
+9008|L-CR|Large|Crisp|1.00|2.00
+9009|J-MC|Jumbo|Milk Chocolate|1.50|3.00
+9010|J-DC|Jumbo|Dark Chocolate|1.50|3.00
+9011|J-CA|Jumbo|Caramel|1.50|3.00
+9012|J-CR|Jumbo|Crisp|1.50|3.00

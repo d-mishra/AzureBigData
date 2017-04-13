@@ -1,0 +1,250 @@
+10001|School of Rock|54602|WI|12
+10002|Harding Elementary|50703|IA|11
+10003|Harding Elementary|50701|IA|12
+10004|Hogwarts|55901|MN|12
+10005|Harding Elementary|50702|IA|11
+10006|School of Rock|54603|WI|12
+10007|School of Rock|54602|WI|11
+10008|School of Rock|54603|WI|11
+10009|School of Rock|54603|WI|12
+10010|Hogwarts|55902|MN|11
+10011|Harding Elementary|50702|IA|12
+10012|School of Rock|54603|WI|12
+10013|Hogwarts|55902|MN|11
+10014|Harding Elementary|50703|IA|12
+10015|School of Rock|54603|WI|12
+10016|Harding Elementary|50701|IA|12
+10017|Hogwarts|55903|MN|11
+10018|School of Rock|54602|WI|11
+10019|Harding Elementary|50701|IA|11
+10020|Harding Elementary|50703|IA|12
+10021|Hogwarts|55901|MN|12
+10022|School of Rock|54601|WI|11
+10023|Harding Elementary|50702|IA|11
+10024|Harding Elementary|50703|IA|11
+10025|Hogwarts|55901|MN|12
+10026|School of Rock|54601|WI|12
+10027|Harding Elementary|50701|IA|12
+10028|Hogwarts|55902|MN|11
+10029|Harding Elementary|50703|IA|11
+10030|School of Rock|54601|WI|11
+10031|School of Rock|54603|WI|11
+10032|Harding Elementary|50702|IA|11
+10033|Hogwarts|55903|MN|11
+10034|School of Rock|54602|WI|11
+10035|Hogwarts|55901|MN|11
+10036|Harding Elementary|50701|IA|11
+10037|School of Rock|54602|WI|12
+10038|Harding Elementary|50702|IA|11
+10039|Harding Elementary|50703|IA|12
+10040|Harding Elementary|50701|IA|12
+10041|Harding Elementary|50702|IA|11
+10042|School of Rock|54602|WI|11
+10043|School of Rock|54603|WI|12
+10044|Hogwarts|55902|MN|12
+10045|Harding Elementary|50702|IA|12
+10046|Hogwarts|55902|MN|11
+10047|Hogwarts|55903|MN|11
+10048|Harding Elementary|50702|IA|12
+10049|Harding Elementary|50703|IA|12
+10050|Hogwarts|55903|MN|12
+10051|Harding Elementary|50703|IA|12
+10052|Harding Elementary|50701|IA|12
+10053|School of Rock|54601|WI|11
+10054|School of Rock|54601|WI|12
+10055|Hogwarts|55902|MN|11
+10056|Hogwarts|55901|MN|11
+10057|Hogwarts|55903|MN|11
+10058|Harding Elementary|50702|IA|11
+10059|Harding Elementary|50702|IA|12
+10060|Hogwarts|55902|MN|11
+10061|Harding Elementary|50703|IA|12
+10062|Hogwarts|55903|MN|12
+10063|Hogwarts|55902|MN|11
+10064|School of Rock|54602|WI|11
+10065|School of Rock|54602|WI|12
+10066|School of Rock|54603|WI|11
+10067|School of Rock|54602|WI|11
+10068|Hogwarts|55902|MN|11
+10069|Hogwarts|55903|MN|12
+10070|Hogwarts|55901|MN|12
+10071|Harding Elementary|50703|IA|12
+10072|Hogwarts|55902|MN|11
+10073|School of Rock|54603|WI|12
+10074|Hogwarts|55901|MN|12
+10075|Harding Elementary|50702|IA|11
+10076|Hogwarts|55903|MN|12
+10077|School of Rock|54603|WI|11
+10078|Harding Elementary|50701|IA|12
+10079|School of Rock|54601|WI|11
+10080|School of Rock|54601|WI|12
+10081|Harding Elementary|50701|IA|11
+10082|Hogwarts|55901|MN|11
+10083|Harding Elementary|50702|IA|11
+10084|Hogwarts|55903|MN|12
+10085|School of Rock|54602|WI|11
+10086|Harding Elementary|50701|IA|11
+10087|School of Rock|54601|WI|12
+10088|Harding Elementary|50702|IA|11
+10089|Hogwarts|55903|MN|12
+10090|School of Rock|54601|WI|12
+10091|School of Rock|54602|WI|11
+10092|Hogwarts|55901|MN|11
+10093|Hogwarts|55901|MN|12
+10094|Hogwarts|55901|MN|11
+10095|School of Rock|54601|WI|11
+10096|Harding Elementary|50702|IA|12
+10097|Hogwarts|55901|MN|12
+10098|School of Rock|54601|WI|11
+10099|Harding Elementary|50703|IA|11
+10100|Hogwarts|55903|MN|12
+10101|Harding Elementary|50703|IA|12
+10102|Hogwarts|55903|MN|11
+10103|School of Rock|54602|WI|12
+10104|Harding Elementary|50702|IA|11
+10105|Harding Elementary|50702|IA|11
+10106|Harding Elementary|50701|IA|12
+10107|School of Rock|54601|WI|12
+10108|School of Rock|54602|WI|11
+10109|Hogwarts|55901|MN|11
+10110|Hogwarts|55901|MN|11
+10111|School of Rock|54601|WI|11
+10112|Harding Elementary|50703|IA|11
+10113|Harding Elementary|50702|IA|12
+10114|Harding Elementary|50701|IA|11
+10115|School of Rock|54602|WI|12
+10116|Harding Elementary|50702|IA|11
+10117|Hogwarts|55901|MN|12
+10118|Hogwarts|55902|MN|11
+10119|Harding Elementary|50701|IA|11
+10120|School of Rock|54601|WI|12
+10121|School of Rock|54603|WI|12
+10122|School of Rock|54603|WI|11
+10123|Hogwarts|55903|MN|11
+10124|Hogwarts|55902|MN|11
+10125|School of Rock|54602|WI|12
+10126|Hogwarts|55903|MN|11
+10127|School of Rock|54602|WI|11
+10128|School of Rock|54602|WI|11
+10129|School of Rock|54603|WI|12
+10130|Harding Elementary|50701|IA|12
+10131|School of Rock|54602|WI|12
+10132|Hogwarts|55901|MN|11
+10133|Harding Elementary|50703|IA|12
+10134|School of Rock|54601|WI|11
+10135|Harding Elementary|50702|IA|11
+10136|Hogwarts|55903|MN|11
+10137|Hogwarts|55901|MN|11
+10138|Hogwarts|55903|MN|11
+10139|Harding Elementary|50703|IA|12
+10140|School of Rock|54602|WI|11
+10141|School of Rock|54602|WI|12
+10142|Hogwarts|55901|MN|11
+10143|Harding Elementary|50701|IA|12
+10144|School of Rock|54602|WI|11
+10145|Hogwarts|55903|MN|11
+10146|Hogwarts|55902|MN|11
+10147|School of Rock|54602|WI|12
+10148|Hogwarts|55901|MN|11
+10149|School of Rock|54601|WI|11
+10150|School of Rock|54603|WI|12
+10151|Hogwarts|55903|MN|12
+10152|Hogwarts|55903|MN|11
+10153|School of Rock|54602|WI|12
+10154|Hogwarts|55903|MN|12
+10155|School of Rock|54603|WI|11
+10156|Hogwarts|55902|MN|12
+10157|School of Rock|54602|WI|11
+10158|Hogwarts|55903|MN|11
+10159|School of Rock|54602|WI|11
+10160|Hogwarts|55902|MN|12
+10161|School of Rock|54602|WI|12
+10162|School of Rock|54602|WI|12
+10163|Hogwarts|55903|MN|11
+10164|School of Rock|54603|WI|11
+10165|Harding Elementary|50703|IA|12
+10166|Harding Elementary|50703|IA|12
+10167|School of Rock|54601|WI|11
+10168|Hogwarts|55902|MN|11
+10169|Harding Elementary|50703|IA|11
+10170|Hogwarts|55901|MN|11
+10171|Hogwarts|55901|MN|11
+10172|Harding Elementary|50703|IA|12
+10173|Hogwarts|55903|MN|11
+10174|School of Rock|54603|WI|11
+10175|Harding Elementary|50703|IA|11
+10176|School of Rock|54602|WI|11
+10177|School of Rock|54602|WI|12
+10178|School of Rock|54601|WI|11
+10179|Harding Elementary|50701|IA|12
+10180|Harding Elementary|50703|IA|12
+10181|School of Rock|54601|WI|11
+10182|Harding Elementary|50701|IA|11
+10183|School of Rock|54601|WI|12
+10184|School of Rock|54602|WI|12
+10185|Harding Elementary|50702|IA|11
+10186|Harding Elementary|50701|IA|12
+10187|Harding Elementary|50701|IA|11
+10188|Hogwarts|55903|MN|11
+10189|Hogwarts|55901|MN|11
+10190|Harding Elementary|50703|IA|11
+10191|Harding Elementary|50703|IA|12
+10192|Hogwarts|55901|MN|12
+10193|Harding Elementary|50702|IA|12
+10194|Harding Elementary|50703|IA|11
+10195|School of Rock|54602|WI|12
+10196|Harding Elementary|50703|IA|11
+10197|School of Rock|54603|WI|12
+10198|Harding Elementary|50702|IA|12
+10199|School of Rock|54602|WI|11
+10200|Hogwarts|55903|MN|12
+10201|School of Rock|54601|WI|12
+10202|School of Rock|54601|WI|11
+10203|School of Rock|54603|WI|12
+10204|School of Rock|54603|WI|11
+10205|Harding Elementary|50701|IA|11
+10206|School of Rock|54603|WI|11
+10207|School of Rock|54602|WI|12
+10208|School of Rock|54601|WI|12
+10209|Harding Elementary|50701|IA|11
+10210|Hogwarts|55901|MN|12
+10211|School of Rock|54602|WI|12
+10212|School of Rock|54603|WI|11
+10213|Hogwarts|55901|MN|12
+10214|Hogwarts|55901|MN|11
+10215|Harding Elementary|50701|IA|11
+10216|School of Rock|54603|WI|11
+10217|Hogwarts|55903|MN|11
+10218|School of Rock|54601|WI|12
+10219|Harding Elementary|50703|IA|12
+10220|School of Rock|54603|WI|12
+10221|Harding Elementary|50702|IA|11
+10222|Harding Elementary|50702|IA|11
+10223|School of Rock|54603|WI|12
+10224|School of Rock|54601|WI|12
+10225|Harding Elementary|50703|IA|12
+10226|School of Rock|54603|WI|12
+10227|School of Rock|54603|WI|12
+10228|School of Rock|54603|WI|11
+10229|School of Rock|54602|WI|11
+10230|Hogwarts|55901|MN|11
+10231|Harding Elementary|50702|IA|12
+10232|Hogwarts|55902|MN|11
+10233|Hogwarts|55901|MN|11
+10234|Harding Elementary|50702|IA|12
+10235|School of Rock|54603|WI|12
+10236|Harding Elementary|50702|IA|11
+10237|Hogwarts|55901|MN|11
+10238|Hogwarts|55902|MN|12
+10239|School of Rock|54603|WI|11
+10240|Hogwarts|55901|MN|12
+10241|School of Rock|54602|WI|12
+10242|Hogwarts|55903|MN|12
+10243|Hogwarts|55903|MN|12
+10244|Harding Elementary|50703|IA|11
+10245|Harding Elementary|50703|IA|11
+10246|Hogwarts|55901|MN|12
+10247|School of Rock|54602|WI|12
+10248|Hogwarts|55901|MN|12
+10249|Harding Elementary|50701|IA|12
+10250|Hogwarts|55901|MN|11

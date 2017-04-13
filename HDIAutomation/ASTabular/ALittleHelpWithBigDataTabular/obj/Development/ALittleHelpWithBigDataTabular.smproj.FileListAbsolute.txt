@@ -1,0 +1,6 @@
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\bin\Model.asdatabase
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\bin\Model.deploymenttargets
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\bin\Model.deploymentoptions
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\obj\Development\Model.asdatabase
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\obj\Development\Model.deploymentoptions
+C:\Users\mavail\OneDrive - Microsoft\GitHub\ALittleHelpWithBigData\ASTabular\ALittleHelpWithBigDataTabular\obj\Development\Model.deploymenttargets

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>de8979f4-c1db-4405-b3a6-d9e8ffd1d013</ProjectGuid>
+    <OutputType>File</OutputType>
+    <AssemblyName>Hive</AssemblyName>
+    <StartFile>Script.hql</StartFile>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <Name>ALittleHelpWithBIgDataHive</Name>
+    <RootNamespace>ALittleHelpWithBIgData</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Script Include="Bar03CreateOrc.hql" />
+    <Script Include="Bar01CreateRaw.hql" />
+    <Script Include="Bar04LoadOrc.hql" />
+    <Script Include="Bar02LoadRaw.hql" />
+    <Script Include="Sales01CreateRaw.hql" />
+    <Script Include="Sales02LoadRaw.hql" />
+    <Script Include="Sales03CreateOrc.hql" />
+    <Script Include="Sales04LoadOrc.hql" />
+  </ItemGroup>
+  <Import Project="$(AppData)\Microsoft\HDInsight Tools for Visual Studio\MsBuild\1.0\Hive.targets" />
+</Project>
